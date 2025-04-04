@@ -1,7 +1,7 @@
 package labrpc
 
 //
-// channel-based RPC, for 6.5840 labs.
+// channel-based RPC, for GoBasic labs.
 //
 // simulates a network that can lose requests, lose replies,
 // delay messages, and entirely disconnect particular hosts.

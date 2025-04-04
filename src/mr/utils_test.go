@@ -7,6 +7,6 @@ import (
 )
 
 func TestClearFile(t *testing.T) {
-	err := DelFileByMapId(10, "/home/xwd/Course/MIT68540/6.5840/src/main")
+	err := DelFileByMapId(10, "/home/xwd/Course/MIT68540/GoBasic/src/main")
 	assert.Nil(t, err)
 }
